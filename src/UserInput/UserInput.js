@@ -4,7 +4,6 @@ const userInput = (props) => {
     const style = {
         padding: '15px 25px',
         color: 'red',
-        
         backgroundcolor: 'blue',
     };
 
